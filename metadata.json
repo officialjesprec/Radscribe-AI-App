@@ -1,0 +1,6 @@
+{
+  "name": "RadScribe AI - Clinical Radiology Dictation",
+  "description": "High-speed voice-to-text dictation engine and intelligent clinical formatting system designed for radiology reading rooms.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
